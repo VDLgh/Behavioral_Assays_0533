@@ -1,0 +1,106 @@
+---
+title: Rotarod & Wire Hang Protocols
+authors:
+  - name: Vincenzo
+    affiliation: George Mason University
+---
+# Rotarod
+
+## Necessary Items
+
+1\. Rotarod apparatus.\
+2. Damp cloth and neutral soap.\
+3. One transport cage with bedding.\
+4. A stopwatch.
+
+## Operating the Machine
+
+1\. Connect the power cable in the back of the machine.\
+2. Turn on the "ON" switch in the back of the machine.\
+3. Ensure all levers are lowered.\
+4. Select the desired working mode.
+
+### Changing Sensitivity of the Levers
+
+To make the levers *more sensitive* to falls, tighten the screw on the lever clockwise.\\ To make the levers *less sensitive* to falls, loosen the screw on the lever counterclockwise.\
+
+## Protocols
+
+### [Training Protocol]{style="color:orange"}
+
+Animals should be acclimated to the room for \~10-30 minutes.
+
+1\. Select [constant]{style="color:fuchsia"} mode.\
+2. Select th rotation speed by pressing the +/- buttons. The rod will not start rotating until "Start" is pressed. *This value should be set at 5 rpm*.\
+3. Press "Start" to start the rotation.\
+4. Place the animals on the rod.\
+5. Lift the levers for the lanes that will be used in the trial.\
+6. Training trials last for 60 seconds.\
+7. Animals should be placed in the transport cage upon fall. Do not return animals to their home cage until all animals from the same cage have completed the trial.\
+
+[NOTE]{style="color:orange"}: Rotation speed can be changed during the trial by pressing the +/- buttons.\
+
+### [Experimental Protocol]{style="color:orange"}
+
+Animals should be acclimated to the room for \~10-30 minutes.\
+1\. Select [acceleration]{style="color:fuchsia"} mode.\
+2. Select "Ramp Time" to indicate how long the rod will take to reach the maximum speed. Acceleration speed is automatically calculated. *This value should be set at 5 minutes.*\
+3. Press "Start" to initiate the rotation at 4rpm (constant).\
+4. Place the animals on the rod. 5. Lift the levers for the lanes that will be used in the trial.\
+6. Press "Hold Ramp" to start the acceleration.\
+7. The device enters the "Stop State" once the last lever is lowered following the fall of the last animal.\
+8. Animals should be placed in the transport cage upon fall. Do not return animals to their home cage until all animals from the same cage have completed the trial.\
+9. Animals should be given a 10-15 minute rest period between trials.\
+
+## Variables measured
+1\. Rotation speed at the moment of the fall.\
+2. Time spent on the rod.\
+
+## Mouse placement
+
+1\. Turn on the cylinder so that mice has to grip and move as soon as they are placed on the device.
+2. Holding the animal from its tail, swing them up from a position lower than the rod.
+
+## Cleanup
+
+Clean the apparatus with a damp cloth and a squiggle of neutral soap to remove odor, urine, and feces.\
+The equipment DOES NOT need to be disinfected after use. Do not rinse the equipment nor pour liquids on it.\
+
+
+# Wire Hang Test
+
+## Necessary Items
+1\. Wire Hang Apparatus.\
+2. Quatricide and paper towels.\
+3. Several handfuls of bedding material or cotton wool.\
+4. A stopwatch.\
+5. Up to 6 transport cages with bedding.\
+
+## Operating the Machine
+1\. Ensure the wire mesh is facing upwards.
+2. Ensure the drawer can slide in and out of the apparatus.\
+3. Pad the bottom of the drawer with a dense layer of soft bedding material like cotton wool or bedding.\
+4. Ensure the canopy is securely in place and it's able to flip over seamlessly.
+
+## Protocol
+
+Animals should be acclimated to the room for \~10 minutes.
+
+1\. Place the mouse on the canopy.\
+2. Invert the canopy so that the animal is hanging from the wire mesh.\
+3. Record the time it takes for the animal to fall.\
+4. *Animals will be left hanging for 3 minutes or until they fall.*\
+5. Place the animal in an empty transport cage upon fall. Monitor for signs of distress or injury.\
+6. After 1 minute, the animal should be placed back on the device for the second trial.
+7. Place the animal in an empty transport cage upon fall. Monitor for signs of distress or injury.\
+8. After 1 minute, the animal should be placed back on the device for the third trial.
+9. Place the animal in an empty transport cage upon fall. Monitor for signs of distress or injury.\
+10. After 1 minute, return the animals from the transport cage to their respective home cage.\
+
+[NOTE]{style="color:orange"}: Animals unable to recover should be euthanized.
+
+## Variables measured
+1\. Time to fall.\
+
+## Cleanup
+Discard the bedding, then sanitize the bottom of the apparatus with quatricide and paper towels after each mouse is done with all 3 trials for the day.\
