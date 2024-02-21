@@ -1,0 +1,42 @@
+---
+title: "How to operate Sedacom Software"
+author: Vincenzo
+format: html
+editor: visual
+---
+
+## How to operate Sedacom Software
+
+### File
+
+'Open' --\> opens already registered '.raw' data.\
+'Save' --> saves data in '.txt', '.raw', and '.sed' extensions. *See flowchart 1 for more info.*\
+'Save as' --> same as save. It allows to select the name of the file and the file path.\
+'Export to' --> (*only used in device mode*) Exports data to a '.xls', '.xlsx', '.txt', 'html' file.
+
+```{mermaid}
+---
+title: Flowchart 1
+---
+flowchart TD
+  A[Save] --> B[In Generic Mode]
+  B --> C[Saves runtime panel data in .txt format]
+  A --> D[In Device Mode]
+  D --> F[Saves data in an experimental file with .sed and .raw extensions]
+  F --> G[.raw file contains all data stream from the device]
+  F --> H[.sed data contains data shown in the runtime panel]
+```
+
+### Edit
+
+'Copy' --> copies select data to the clipboard. Selected data will be highlighted in blue.\
+'Delete All' --> deletes all data on the selected/active runtime panel. 
+
+### Configuration
+
+'Load Device' --> loads common configuration parameters of a saved device as the experiment header, printing parameters, and text font. 
+'Save Device' --> saves common configuration parameters of the active/selected runtime panel.
+'Load all' --> loads a saved configuration (all runtime panels, configuration parameters, their position on the screen)
+'Save all' --> saves all configuration parameters of all opened runtime panels
+'Com Port' --> modifies the serial plot parameters. *Do not touch*
+'Edit Header' --> change the information that will appear on the data header. It will be shown in the first data columns of each device in the 'Device' mode and in generic ASCII in 'Generic' mode.
